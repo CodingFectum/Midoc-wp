@@ -68,32 +68,32 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
  */
 @font-face {
   font-family: Roboto-thin;
-  src: url(https://app.midoc.club/wp-content/fonts/Roboto-Thin.ttf);
+  src: url(https://medico.ec/wp-content/fonts/Roboto-Thin.ttf);
 }
 
 @font-face {
    font-family: 'Roboto-Regular';
-      src: url('https://app.midoc.club/wp-content/fonts/Roboto-Regular.ttf') format('truetype');
+      src: url('https://medico.ec/wp-content/fonts/Roboto-Regular.ttf') format('truetype');
    font-weight: 400;
    font-style: normal;
 }
 @font-face {
    font-family: 'Roboto-Medium';
-      src: url('https://app.midoc.club/wp-content/fonts/Roboto-Medium.ttf') format('truetype');
+      src: url('https://medico.ec/wp-content/fonts/Roboto-Medium.ttf') format('truetype');
    font-weight: 500;
    font-style: normal;
 }
 
 @font-face {
    font-family: 'Roboto-Bold';
-      src: url('https://app.midoc.club/wp-content/fonts/Roboto-Bold.ttf') format('truetype');
+      src: url('https://medico.ec/wp-content/fonts/Roboto-Bold.ttf') format('truetype');
    font-weight: 700;
    font-style: normal;
 }
 
 @font-face {
    font-family: 'Roboto-Black';
-      src: url('https://app.midoc.club/wp-content/fonts/Roboto-Black.ttf') format('truetype');
+      src: url('https://medico.ec/wp-content/fonts/Roboto-Black.ttf') format('truetype');
    font-weight: 900;
    font-style: normal;
 }
