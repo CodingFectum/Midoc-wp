@@ -21,7 +21,7 @@
       </div>
 
       <div class="col-8 text-right pr-md-5 py-4 my-auto">
-        <a href="https://app.midoc.club/auth/login" class="btn dark-blue-bk" style="">Log In /  Sign Up</a>
+        <a href="#" class="btn dark-blue-bk" style="">Log In /  Sign Up</a>
       </div>
     </div>
     <div class="row px-3 px-md-0">
