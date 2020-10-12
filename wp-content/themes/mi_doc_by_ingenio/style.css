@@ -159,6 +159,11 @@ img{position: relative; z-index: 1;}
 }
 /*Header style start*/
 .MD---home-header{height: 65vh;}
+.MD---home-header .dark-blue-bk{
+  box-shadow: 1px 1px 2px #285cdb; 
+  position: relative; 
+  z-index: 1;
+}
 .MD---home-header .MD---home-header_img{
 	position: absolute;
     top: 0;

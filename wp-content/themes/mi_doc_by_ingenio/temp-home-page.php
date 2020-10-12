@@ -21,7 +21,7 @@
       </div>
 
       <div class="col-8 text-right pr-md-5 py-4 my-auto">
-        <button class="btn dark-blue-bk" style="box-shadow: 1px 1px 2px #285cdb; position: relative; z-index: 1;">Log In /  Sign Up</button>
+        <a href="https://app.midoc.club/auth/login" class="btn dark-blue-bk" style="">Log In /  Sign Up</a>
       </div>
     </div>
     <div class="row px-3 px-md-0">
