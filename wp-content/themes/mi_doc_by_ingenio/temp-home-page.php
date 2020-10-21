@@ -21,14 +21,14 @@
       </div>
 
       <div class="col-8 text-right pr-md-5 py-4 my-auto">
-        <a href="#" class="btn dark-blue-bk" style="">Log In /  Sign Up</a>
+        <a href="https://app.medico.ec/auth/login" class="btn dark-blue-bk" style="">Log In /  Sign Up</a>
       </div>
     </div>
     <div class="row px-3 px-md-0">
       <div class="col-12 col-md-6 py-lg-5 mt-5 my-md-5 MD---Home--mobile-div">
           <h1>Healthcare<br>Solutions</h1>
           <p>Peep at some distant orb has power to <br class="d-none d-md-block d-lg-none">raise and purify <br class="d-none d-lg-block">our thoughts like a strain <br class="d-none d-md-block d-lg-none">of sacred music, or a noble <br class="d-none d-lg-block">picture.</p>
-          <button href="#" class="btn light-blue-bk">I am A Doctor</button>
+          <a href="https://app.medico.ec/auth/login" class="btn light-blue-bk">I am A Doctor</a>
       </div>
       <div class="col-12 col-md-6">
         
